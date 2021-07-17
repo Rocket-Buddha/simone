@@ -1,4 +1,4 @@
-#Simon game
+# Simon game
 
 Front-end Simon game.
 
